@@ -2,3 +2,4 @@ rencana jascript
 -buat apk to do list
 -buat porotofolio
 -javascript react
+-javascript angular
