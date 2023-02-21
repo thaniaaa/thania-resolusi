@@ -1,5 +1,5 @@
 rencana jascript
 -buat apk to do list (liat di yt)
 -buat porotofolio
--javascript react 
+-javascript react & vue
 -kalkulator
